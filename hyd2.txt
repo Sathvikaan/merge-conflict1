@@ -1,2 +1,6 @@
 hi from hyd
+<<<<<<< HEAD
 this is sathvika
+=======
+hello from banglore
+>>>>>>> c418aec13b398ca201e9fa1a58a7c619a70f41f2
